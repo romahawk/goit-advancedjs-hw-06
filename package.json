@@ -1,0 +1,15 @@
+{
+<<<<<<< HEAD
+  "name": "typescript-homework-module-3",
+=======
+  "name": "typescript-homework-module-2",
+>>>>>>> 888b3cfa00d9d8551f38cb046d3f51c7a5306152
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.5"
+  }
+}
